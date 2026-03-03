@@ -1,0 +1,8 @@
+{
+  "errorTitle": "Something went wrong",
+  "errorSubtitle": "Oops, that was unexpected!",
+  "errormessage": "An unexpected error occurred. Please try refreshing the page or returning to the homepage.",
+  "Try Again": "Try Again",
+  "Return to Homepage": "Return to Homepage",
+  "footerNote": "If this keeps happening, grab a coffee ☕ and come back later."
+}

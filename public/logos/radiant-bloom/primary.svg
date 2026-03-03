@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" role="img" aria-labelledby="logo-title logo-desc">
+  <title id="logo-title">Ahmed Work Logo - Radiant Bloom</title>
+  <desc id="logo-desc">An organic sun shape with flowing, playful rays</desc>
+  <defs>
+    <linearGradient id="sunGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E8955A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#F5D88C;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <g id="rays">
+    <path d="M50 8 Q52 25 50 30 Q48 25 50 8" fill="url(#sunGradient)" opacity="0.9" />
+    <path d="M50 92 Q48 75 50 70 Q52 75 50 92" fill="url(#sunGradient)" opacity="0.9" />
+    <path d="M8 50 Q25 48 30 50 Q25 52 8 50" fill="url(#sunGradient)" opacity="0.9" />
+    <path d="M92 50 Q75 52 70 50 Q75 48 92 50" fill="url(#sunGradient)" opacity="0.9" />
+    <path d="M18 18 Q30 28 35 35 Q28 30 18 18" fill="url(#sunGradient)" opacity="0.8" />
+    <path d="M82 82 Q70 72 65 65 Q72 70 82 82" fill="url(#sunGradient)" opacity="0.8" />
+    <path d="M82 18 Q72 30 65 35 Q70 28 82 18" fill="url(#sunGradient)" opacity="0.8" />
+    <path d="M18 82 Q28 70 35 65 Q30 72 18 82" fill="url(#sunGradient)" opacity="0.8" />
+    <path d="M32 12 Q38 26 42 34 Q35 28 32 12" fill="url(#sunGradient)" opacity="0.7" />
+    <path d="M68 88 Q62 74 58 66 Q65 72 68 88" fill="url(#sunGradient)" opacity="0.7" />
+    <path d="M88 32 Q74 38 66 42 Q72 35 88 32" fill="url(#sunGradient)" opacity="0.7" />
+    <path d="M12 68 Q26 62 34 58 Q28 65 12 68" fill="url(#sunGradient)" opacity="0.7" />
+    <path d="M68 12 Q62 26 58 34 Q65 28 68 12" fill="url(#sunGradient)" opacity="0.7" />
+    <path d="M32 88 Q38 74 42 66 Q35 72 32 88" fill="url(#sunGradient)" opacity="0.7" />
+    <path d="M88 68 Q74 62 66 58 Q72 65 88 68" fill="url(#sunGradient)" opacity="0.7" />
+    <path d="M12 32 Q26 38 34 42 Q28 35 12 32" fill="url(#sunGradient)" opacity="0.7" />
+  </g>
+  <circle cx="50" cy="50" r="20" fill="url(#sunGradient)" />
+  <circle cx="50" cy="50" r="14" fill="#F5D88C" opacity="0.6" />
+</svg>

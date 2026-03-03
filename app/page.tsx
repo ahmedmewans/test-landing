@@ -1,19 +1,6 @@
-import Navbar from '@/components/Navbar';
-import Hero from '@/components/Hero';
-import Projects from '@/components/Projects';
-import Skills from '@/components/Skills';
-import Contact from '@/components/Contact';
-import Footer from '@/components/Footer';
+import { redirect } from "next/navigation";
 
-export default function Home() {
-  return (
-    <main className="relative">
-      <Navbar />
-      <Hero />
-      <Projects />
-      <Skills />
-      <Contact />
-      <Footer />
-    </main>
-  );
+// This page only renders when the app is built statically (output: 'export')
+export default function RootPage() {
+  redirect("/en");
 }

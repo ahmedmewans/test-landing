@@ -1,0 +1,47 @@
+"use client";
+
+interface SunWaveIconProps {
+  className?: string;
+}
+
+export default function SunWaveIcon({ className = "" }: SunWaveIconProps) {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 100 100"
+      className={className}
+      role="img"
+      aria-label="ahmed.work logo"
+    >
+      <defs>
+        <linearGradient id="iconGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" style={{ stopColor: "#E8955A", stopOpacity: 1 }} />
+          <stop
+            offset="100%"
+            style={{ stopColor: "#F5D88C", stopOpacity: 1 }}
+          />
+        </linearGradient>
+      </defs>
+      <path
+        d="M50 10 C58 10, 66 14, 72 20 C78 26, 84 36, 86 44 C88 52, 88 60, 85 68 C82 76, 76 82, 68 86 C60 90, 52 92, 44 90 C36 88, 28 84, 22 78 C16 72, 12 64, 11 56 C10 48, 12 40, 16 32 C20 24, 28 18, 36 14 C44 10, 50 10, 50 10 Z"
+        fill="url(#iconGradient)"
+      />
+      <path
+        d="M50 22 C56 22, 62 25, 66 30 C70 35, 74 42, 75 48 C76 54, 75 60, 72 66 C69 72, 64 76, 58 78 C52 80, 46 80, 40 78 C34 76, 29 72, 26 66 C23 60, 22 54, 23 48 C24 42, 27 35, 32 30 C37 25, 44 22, 50 22 Z"
+        fill="#F5D88C"
+        opacity="0.6"
+      />
+      <g
+        fill="none"
+        stroke="#E8955A"
+        strokeWidth="2"
+        strokeLinecap="round"
+        opacity="0.5"
+      >
+        <path d="M35 50 Q42 45, 50 50 Q58 55, 65 50" />
+        <path d="M38 58 Q45 53, 50 58 Q55 63, 62 58" />
+        <path d="M38 42 Q45 37, 50 42 Q55 47, 62 42" />
+      </g>
+    </svg>
+  );
+}

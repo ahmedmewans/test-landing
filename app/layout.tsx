@@ -1,32 +1,11 @@
-import type { Metadata } from 'next';
-import { Inter, Space_Grotesk } from 'next/font/google';
-import './globals.css';
+import type { ReactNode } from "react";
 
-const inter = Inter({
-  subsets: ['latin'],
-  variable: '--font-sans',
-});
-
-const spaceGrotesk = Space_Grotesk({
-  subsets: ['latin'],
-  variable: '--font-display',
-});
-
-export const metadata: Metadata = {
-  title: 'Aura | Creative Developer Portfolio',
-  description: 'A showcase of creative development and design work.',
+type Props = {
+  children: ReactNode;
 };
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
-  return (
-    <html lang="en" className={`${inter.variable} ${spaceGrotesk.variable} scroll-smooth`}>
-      <body className="bg-neutral-950 text-neutral-50 antialiased selection:bg-emerald-500/30 selection:text-emerald-200" suppressHydrationWarning>
-        {children}
-      </body>
-    </html>
-  );
+// Since we have a `not-found.tsx` page on the root, a layout file
+// is required, even if it's just passing children through.
+export default function RootLayout({ children }: Props) {
+  return children;
 }

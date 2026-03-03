@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" role="img" aria-labelledby="logo-title logo-desc">
+  <title id="logo-title">Ahmed Work Logo - Orbit Dots Light</title>
+  <desc id="logo-desc">Monochrome light version of Orbit Dots logo for dark backgrounds</desc>
+  <circle cx="50" cy="50" r="18" fill="#FFFFFF" />
+  <circle cx="50" cy="50" r="12" fill="#FFFFFF" opacity="0.5" />
+  <g id="orbit-dots" fill="#FFFFFF">
+    <circle cx="50" cy="16" r="6" opacity="0.95" />
+    <circle cx="50" cy="84" r="5" opacity="0.9" />
+    <circle cx="16" cy="50" r="5" opacity="0.85" />
+    <circle cx="84" cy="50" r="6" opacity="0.95" />
+    <circle cx="26" cy="26" r="4" opacity="0.8" />
+    <circle cx="74" cy="74" r="4" opacity="0.75" />
+    <circle cx="74" cy="26" r="5" opacity="0.85" />
+    <circle cx="26" cy="74" r="5" opacity="0.8" />
+    <circle cx="36" cy="14" r="3" opacity="0.6" />
+    <circle cx="64" cy="86" r="3" opacity="0.65" />
+    <circle cx="14" cy="36" r="3" opacity="0.55" />
+    <circle cx="86" cy="64" r="3" opacity="0.6" />
+    <circle cx="64" cy="14" r="3.5" opacity="0.7" />
+    <circle cx="36" cy="86" r="3.5" opacity="0.65" />
+    <circle cx="14" cy="64" r="3.5" opacity="0.6" />
+    <circle cx="86" cy="36" r="3.5" opacity="0.7" />
+  </g>
+</svg>

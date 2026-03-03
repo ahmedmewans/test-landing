@@ -1,0 +1,2224 @@
+﻿Collecting PyPDF2
+  Downloading pypdf2-3.0.1-py3-none-any.whl.metadata (6.8 kB)
+Downloading pypdf2-3.0.1-py3-none-any.whl (232 kB)
+Installing collected packages: PyPDF2
+Successfully installed PyPDF2-3.0.1
+---TEXT FROM e:\learning\new-portfolio\resume\Ahmed Abdo-FrontEnd-CV.pdf---
+ AHMED ABDO FAHMY Front-End Developer Mansoura, Egypt | (+20)-1066183226 |  Email Address: ahmedmewans2040@gmail.com  LinkedIn: www.linkedin.com/in/ahmed-abdo-fahmy2021 Github: https://github.com/ahmedFahmy2024 Portfolio: https://ahmed-fahmy-portfolio.vercel.app CAREER OBJECTIVE
+ As a versatile developer with expertise spanning frontend and database technologies, I specializ e in building 
+compr ehensiv e
+ 
+web
+ 
+applic ations
+ 
+using
+ 
+React.js,
+ 
+Next.js,
+ 
+and
+ 
+TypeScrip t,
+ 
+back ed
+ 
+by
+ 
+strong
+ 
+proficiency
+ 
+in
+ 
+Prisma
+ 
+and
+ 
+Drizzle
+ 
+ORMs
+ 
+with
+ 
+PostgreSQL
+ 
+and
+ 
+Neon
+ 
+databases.
+ 
+I
+ 
+excel
+ 
+at
+ 
+architecting
+ 
+scalable
+ 
+solutions
+ 
+that
+ 
+integrate
+ 
+modern
+ 
+frontend
+ 
+frame works
+ 
+with
+ 
+efficien t
+ 
+data
+ 
+persistence
+ 
+layers.
+ 
+My
+ 
+passion
+ 
+for
+ 
+technology
+ 
+drives
+ 
+me
+ 
+to
+ 
+master
+ 
+the
+ 
+full
+ 
+developmen t
+ 
+stack,
+ 
+from
+ 
+UI
+ 
+componen ts
+ 
+to
+ 
+database
+ 
+schema
+ 
+design,
+ 
+ensuring
+ 
+robus t,
+ 
+performan t,
+ 
+and
+ 
+main tainable
+ 
+applic ations.
+  WORK EXPERIENCE
+ 
+Freelance
+ 
+-
+ 
+Full-St ack
+ 
+Developer
+ 
+-
+ 
+Remot e
+ 
+September
+ 
+2025
+ 
+û
+ 
+October
+ 
+2025
+ 
+Project:
+ 
+Learning
+ 
+Manag emen t
+ 
+System
+ 
+(LMS)
+ 
+ـ
+ 
+Designed
+ 
+and
+ 
+developed
+ 
+a
+ 
+full-featured
+ 
+Learning
+ 
+Manag emen t
+ 
+System
+ 
+using
+ 
+Next.js
+ 
+15
+,
+ 
+React
+ 
+19
+,
+ 
+TypeScrip t,
+ 
+and
+ 
+Prisma
+ 
+(PostgreSQL)
+.
+ 
+ـ
+ 
+Implemen ted
+ 
+authen tication
+ 
+with
+ 
+Better
+ 
+Auth
+ 
+(
+GitHub
+ 
+OAuth
+ 
++
+ 
+Email
+ 
+OTP
+)
+ 
+and
+ 
+protected
+ 
+routes
+ 
+with
+ 
+middle ware
+ 
+and
+ 
+server
+ 
+guar ds
+.
+ 
+ـ
+ 
+Built
+ 
+a
+ 
+comple te
+ 
+course
+ 
+creation
+ 
+and
+ 
+manag emen t
+ 
+system,
+ 
+including
+ 
+chap ters,
+ 
+lessons,
+ 
+drag-and-dr op
+ 
+ordering ,
+ 
+and
+ 
+rich-t ext
+ 
+editing
+ 
+using
+ 
+TipT ap
+.
+ 
+ـ
+ 
+Integrated
+ 
+Stripe
+ 
+for
+ 
+secur e
+ 
+course
+ 
+paymen ts
+ 
+with
+ 
+webhook
+-based
+ 
+enrollmen t
+ 
+activ ation.
+ 
+ـ
+ 
+Implemen ted
+ 
+file
+ 
+upload
+ 
+workflo w
+ 
+via
+ 
+AWS
+ 
+S3
+ 
+(Tigris)
+ 
+for
+ 
+videos
+ 
+and
+ 
+imag es
+ 
+using
+ 
+presigned
+ 
+URLs
+ 
+with
+ 
+access
+ 
+control
+ 
+and
+ 
+rate
+ 
+limiting.
+ 
+ـ
+ 
+Developed
+ 
+a
+ 
+studen t
+ 
+dashboar d
+ 
+showing
+ 
+enrolled
+ 
+courses,
+ 
+lesson
+ 
+playback,
+ 
+and
+ 
+real-time
+ 
+progress
+ 
+tracking
+ 
+with
+ 
+comple tion
+ 
+anima tion.
+ 
+ـ
+ 
+Applied
+ 
+server
+ 
+componen ts
+,
+ 
+server
+ 
+actions
+,
+ 
+and
+ 
+App
+ 
+Router
+ 
+architectur e
+ 
+for
+ 
+performance
+ 
+and
+ 
+scalability .
+ 
+ـ
+ 
+Enhanced
+ 
+security
+ 
+with
+ 
+Arcjet
+ 
+(
+rate
+ 
+limiting
+,
+ 
+bot
+ 
+detection
+,
+ 
+email
+ 
+valida tion
+).
+ 
+ـ
+ 
+Followed
+ 
+clean
+ 
+architectur e
+ 
+practices
+ 
+with
+ 
+reusable
+ 
+UI
+ 
+componen ts,
+ 
+a
+ 
+modular
+ 
+data
+ 
+access
+ 
+layer
+,
+ 
+and
+ 
+code
+ 
+linting/forma tting
+ 
+via
+ 
+Biome
+.
+  
+SahlSolution
+ 
+-
+ 
+Front-End
+ 
+Developer
+ 
+-
+ 
+Hybrid
+ 
+Februar y
+ 
+2025
+ 
+û
+ 
+Februar y
+ 
+2026
+ Project: Ener gize Dashboar d û Logis tics Manag emen t System 
+ـ
+ 
+Architected
+ 
+a
+ 
+scalable
+ 
+logis tics
+ 
+and
+ 
+fleet
+ 
+manag emen t
+ 
+dashboar d
+ 
+using
+ 
+Next.js
+ 
+15
+,
+ 
+React
+ 
+19
+,
+ 
+and
+ 
+TypeScrip t
+ 
+with
+ 
+App
+ 
+Router
+ 
+and
+ 
+Server
+ 
+Componen ts
+ 
+for
+ 
+optimiz ed
+ 
+performance.
+ 
+ـ
+ 
+Built
+ 
+a
+ 
+modular
+ 
+data
+ 
+fetching
+ 
+system
+ 
+using
+ 
+TanSt ack
+ 
+Quer y
+ 
+v5
+ 
+and
+ 
+custom
+ 
+hook s
+ 
+(useF etchDa ta,
+ 
+useP ostData,
+ 
+useIn finiteData)
+ 
+for
+ 
+automa tic
+ 
+caching
+,
+ 
+infinite
+ 
+scroll
+,
+ 
+and
+ 
+optimis tic
+ 
+upda tes
+.
+ 
+ـ
+ 
+Implemen ted
+ 
+NextAuth
+ 
+v4
+ 
+with
+ 
+a
+ 
+granular
+ 
+role-
+ 
+and
+ 
+permission-based
+ 
+access
+ 
+control
+ 
+system
+ 
+(
+guar ds
+,
+ 
+HOCs
+,
+ 
+and
+ 
+middle ware
+)
+ 
+supporting
+ 
+super
+ 
+admin
+ 
+overrides.
+ 
+ـ
+ 
+Developed
+ 
+a
+ 
+real-time
+ 
+notific ation
+ 
+system
+ 
+integrated
+ 
+with
+ 
+OneSignal
+,
+ 
+featuring
+ 
+foreground
+ 
+toasts,
+ 
+click
+ 
+handler s,
+ 
+and
+ 
+automa tic
+ 
+device
+ 
+sync.
+ 
+ـ
+ 
+Created
+ 
+reusable
+ 
+data
+ 
+table
+ 
+componen ts
+ 
+with
+ 
+server-side
+ 
+pagina tion,
+ 
+sorting ,
+ 
+filtering ,
+ 
+and
+ 
+drag-and-dr op
+ 
+row
+ 
+reordering
+ 
+via
+ 
+@dnd-kit
+.
+ 
+ 
+ 
+ـ
+ 
+Added
+ 
+multi-languag e
+ 
+support
+ 
+(
+Arabic
+/
+English
+)
+ 
+with
+ 
+route-based
+ 
+interna tionaliz ation
+ 
+using
+ 
+i18ne xt
+ 
+and
+ 
+next-i18n-r outer
+.
+ 
+ـ
+ 
+Designed
+ 
+dynamic
+ 
+form
+ 
+componen ts
+ 
+with
+ 
+React
+ 
+Hook
+ 
+Form
+ 
++
+ 
+Zod
+ 
+valida tion
+,
+ 
+infinite
+ 
+scroll
+ 
+combobo xes
+,
+ 
+and
+ 
+dependen t
+ 
+fields.
+ 
+ـ
+ 
+Integrated
+ 
+Google
+ 
+Map s
+ 
+and
+ 
+Leaflet
+ 
+for
+ 
+shipmen t
+ 
+visualiz ation
+ 
+and
+ 
+geoloc ation
+ 
+features.
+ 
+ـ
+ 
+Followed
+ 
+clean
+ 
+architectur e
+ 
+and
+ 
+feature-based
+ 
+folder
+ 
+structur e
+ 
+for
+ 
+main tainability
+ 
+and
+ 
+scalability
+.
+  
+Freelance
+ 
+-
+ 
+Front-End
+ 
+Developer
+ 
+-
+ 
+Remot e
+ 
+June
+ 
+2025
+ 
+û
+ 
+Augus t
+ 
+2025
+ 
+Project:
+ 
+Zentra
+ 
+Msg
+ 
+û
+ 
+Wha tsApp
+ 
+Business
+ 
+Manag emen t
+ 
+Platform
+ 
+ـ
+ 
+Built
+ 
+a
+ 
+full-featured
+ 
+Wha tsApp
+ 
+Business
+ 
+manag emen t
+ 
+platform
+ 
+using
+ 
+React
+ 
+18
+,
+ 
+Redux
+ 
+Toolkit
+,
+ 
+TanSt ack
+ 
+Quer y
+,
+ 
+and
+ 
+React
+ 
+Router
+ 
+v6
+.
+ 
+ـ
+ 
+Implemen ted
+ 
+multi-de vice
+ 
+manag emen t
+,
+ 
+including
+ 
+QR
+ 
+code
+ 
+authen tication
+,
+ 
+real-time
+ 
+connection
+ 
+monit oring
+,
+ 
+and
+ 
+webhook
+ 
+configur ation
+.
+ 
+ـ
+ 
+Developed
+ 
+advanced
+ 
+messaging
+ 
+features
+ 
+supporting
+ 
+text
+,
+ 
+imag es
+,
+ 
+videos
+,
+ 
+documen ts
+,
+ 
+and
+ 
+scheduled
+ 
+messag es
+ 
+with
+ 
+time
+ 
+zone
+ 
+awareness.
+ 
+ـ
+ 
+Integrated
+ 
+AI-po wered
+ 
+chatbot
+ 
+functionality
+ 
+with
+ 
+configur able
+ 
+conversation
+ 
+modes
+ 
+and
+ 
+per-device
+ 
+assignmen t
+.
+ 
+ـ
+ 
+Built
+ 
+contact
+ 
+and
+ 
+group
+ 
+manag emen t
+ 
+systems
+ 
+with
+ 
+import/ export
+ 
+(Excel)
+,
+ 
+bulk
+ 
+oper ations
+,
+ 
+and
+ 
+synchr oniz ation
+ 
+with
+ 
+Wha tsApp
+ 
+groups.
+ 
+ـ
+ 
+Implemen ted
+ 
+JWT-based
+ 
+authen tication
+,
+ 
+protected
+ 
+routes
+,
+ 
+and
+ 
+session
+ 
+manag emen t
+ 
+with
+ 
+auto
+ 
+logout.
+ 
+ـ
+ 
+Enhanced
+ 
+UX
+ 
+with
+ 
+React
+ 
+Joyride
+ 
+onboar ding
+ 
+tours
+,
+ 
+toast
+ 
+notific ations,
+ 
+and
+ 
+responsiv e
+ 
+Boots trap
+ 
++
+ 
+SCSS
+ 
+theming.
+ 
+ـ
+ 
+Followed
+ 
+a
+ 
+modular
+ 
+architectur e
+ 
+with
+ 
+reusable
+ 
+componen ts
+,
+ 
+hook s,
+ 
+and
+ 
+service-based
+ 
+API
+ 
+abstraction
+ 
+for
+ 
+main tainability
+ 
+and
+ 
+scalability .
+  
+SahlSolution
+ 
+-
+ 
+Front-End
+ 
+Developer
+ 
+-
+ 
+Hybrid
+ 
+Februar y
+ 
+2025
+ 
+û
+ 
+Februar y
+ 
+2026
+ Project: Zad Al-Akher a Dashboar d û Educational Manag emen t System 
+ـ
+ 
+Developed
+ 
+a
+ 
+full-featured
+ 
+educ ational
+ 
+manag emen t
+ 
+dashboar d
+ 
+using
+ 
+Next.js
+ 
+15
+,
+ 
+React
+ 
+19
+,
+ 
+and
+ 
+TypeScrip t
+,
+ 
+following
+ 
+a
+ 
+server-first
+ 
+architectur e
+ 
+with
+ 
+App
+ 
+Router
+ 
+and
+ 
+Server
+ 
+Componen ts.
+ 
+ـ
+ 
+Implemen ted
+ 
+bilingual
+ 
+support
+ 
+(Arabic/English)
+ 
+with
+ 
+i18ne xt
+ 
+and
+ 
+next-i18n-r outer
+,
+ 
+including
+ 
+automa tic
+ 
+RTL
+ 
+layout
+ 
+synchr onization
+ 
+and
+ 
+localized
+ 
+form
+ 
+valida tion.
+ 
+ـ
+ 
+Designed
+ 
+a
+ 
+compr ehensiv e
+ 
+quiz
+ 
+manag emen t
+ 
+system
+ 
+(
+multi-type
+ 
+ques tions
+,
+ 
+drag-and-dr op
+ 
+ordering
+,
+ 
+time
+ 
+limits
+,
+ 
+multilingual
+ 
+fields
+,
+ 
+and
+ 
+result
+ 
+configur ation
+).
+ 
+ـ
+ 
+Built
+ 
+a
+ 
+video
+ 
+manag emen t
+ 
+system
+ 
+integrated
+ 
+with
+ 
+Bunn y.net
+ 
+CDN
+,
+ 
+enabling
+ 
+secur e
+ 
+uploads,
+ 
+thumbnail
+ 
+gener ation,
+ 
+and
+ 
+HLS
+ 
+streaming.
+ 
+ـ
+ 
+Architected
+ 
+role-based
+ 
+access
+ 
+control
+ 
+(RBAC)
+ 
+and
+ 
+permission
+ 
+guar ds
+ 
+via
+ 
+NextAuth
+ 
+v4
+ 
+middle ware
+ 
+for
+ 
+route
+ 
+protection.
+ 
+ـ
+ 
+Created
+ 
+reusable
+ 
+data
+ 
+table
+ 
+componen ts
+ 
+supporting
+ 
+server-side
+ 
+pagina tion
+,
+ 
+multi-la yer
+ 
+filtering
+ 
+(sear ch,
+ 
+quick,
+ 
+sidebar),
+ 
+and
+ 
+export
+ 
+functionality .
+ 
+ـ
+ 
+Engineer ed
+ 
+form
+ 
+manag emen t
+ 
+using
+ 
+React
+ 
+Hook
+ 
+Form
+ 
++
+ 
+Zod
+,
+ 
+including
+ 
+advanced
+ 
+multi-s tep
+ 
+forms
+ 
+with
+ 
+real-time
+ 
+valida tion
+ 
+and
+ 
+file
+ 
+uploads.
+ 
+ـ
+ 
+Implemen ted
+ 
+global
+ 
+state
+ 
+manag emen t
+ 
+with
+ 
+TanSt ack
+ 
+Quer y
+ 
+v5
+,
+ 
+Zustand
+,
+ 
+and
+ 
+nuqs
+ 
+for
+ 
+URL-based
+ 
+filter
+ 
+persistence.
+ 
+ـ
+ 
+Enhanced
+ 
+UX
+ 
+with
+ 
+Radix
+ 
+UI
+ 
++
+ 
+shadcn/ui
+,
+ 
+Tailwind
+ 
+CSS
+,
+ 
+Framer
+ 
+Motion
+,
+ 
+and
+ 
+dark/ligh t
+ 
+mode
+ 
+themes.
+ 
+Followed
+ 
+clean,
+ 
+feature-based
+ 
+architectur e
+ 
+with
+ 
+reusable
+ 
+hook s,
+ 
+modular
+ 
+APIs,
+ 
+and
+ 
+compr ehensiv e
+ 
+documen tation
+ 
+for
+ 
+scalability .
+  
+ 
+ 
+Freelance
+ 
+-
+ 
+Full-St ack
+ 
+Developer
+ 
+-
+ 
+Remot e
+ 
+Augus t
+ 
+2024
+ 
+û
+ 
+October
+ 
+2024
+ 
+Project:
+ 
+Modern
+ 
+Real
+ 
+Estate
+ 
+Auction
+ 
+Platform
+ 
+ Frontend: 
+ـ
+ 
+Built
+ 
+a
+ 
+modern
+ 
+auction
+ 
+platform
+ 
+with
+ 
+features
+ 
+such
+ 
+as
+ 
+real-time
+ 
+auction
+ 
+listings,
+ 
+detailed
+ 
+property
+ 
+views,
+ 
+and
+ 
+responsiv e
+ 
+designs
+ 
+using
+ 
+Next.js
+ 
+15.0.1
+,
+ 
+React
+ 
+18
+,
+ 
+and
+ 
+TypeScrip t
+.
+ 
+ـ
+ 
+Integrated
+ 
+Google
+ 
+Map s
+ 
+API
+ 
+and
+ 
+Leaflet
+ 
+for
+ 
+interactiv e
+ 
+property
+ 
+location
+ 
+mapping.
+ 
+ـ
+ 
+Developed
+ 
+a
+ 
+dynamic,
+ 
+user -friendly
+ 
+dashboar d
+ 
+enabling
+ 
+user s
+ 
+to
+ 
+monit or
+ 
+and
+ 
+participa te
+ 
+in
+ 
+auctions,
+ 
+with
+ 
+role-based
+ 
+access
+ 
+control.
+ 
+ـ
+ 
+Optimiz ed
+ 
+media
+ 
+handling
+ 
+using
+ 
+Next.js
+ 
+Imag e
+ 
+componen t
+ 
+and
+ 
+integrated
+ 
+video
+ 
+support
+ 
+for
+ 
+rich
+ 
+content.
+ 
+ـ
+ 
+Ensur ed
+ 
+a
+ 
+responsiv e
+ 
+design
+ 
+across
+ 
+devices
+ 
+and
+ 
+SEO
+ 
+optimiz ation
+ 
+with
+ 
+server-side
+ 
+rendering
+ 
+(SSR).
+ 
+ـ
+ 
+Utiliz ed
+ 
+modular
+ 
+and
+ 
+scalable
+ 
+architectur e
+ 
+to
+ 
+streamline
+ 
+componen t
+ 
+reuse
+ 
+and
+ 
+futur e
+ 
+enhancemen ts.
+ Back end: 
+ـ
+ 
+Architected
+ 
+a
+ 
+robus t
+ 
+back end
+ 
+API
+ 
+using
+ 
+Node.js
+ 
+and
+ 
+Expr ess.js
+ 
+following
+ 
+the
+ 
+MVC
+ 
+pattern
+ 
+and
+ 
+RESTful
+ 
+principles
+.
+ 
+ـ
+ 
+Enabled
+ 
+real-time
+ 
+communic ation
+ 
+via
+ 
+Sock et.IO
+,
+ 
+providing
+ 
+live
+ 
+auction
+ 
+upda tes
+ 
+and
+ 
+synchr onized
+ 
+bidding.
+ 
+ـ
+ 
+Developed
+ 
+advanced
+ 
+API
+ 
+features,
+ 
+including
+ 
+pagina tion,
+ 
+filtering ,
+ 
+and
+ 
+sear ch
+ 
+functionality
+ 
+for
+ 
+enhanced
+ 
+user
+ 
+experience.
+ 
+ـ
+ 
+Built
+ 
+a
+ 
+file
+ 
+upload
+ 
+system
+ 
+with
+ 
+Mult er
+ 
+and
+ 
+Sharp
+ 
+for
+ 
+imag e
+ 
+processing
+ 
+and
+ 
+secur e
+ 
+storage.
+ 
+ـ
+ 
+Integrated
+ 
+robus t
+ 
+security
+ 
+practices,
+ 
+including
+ 
+reques t
+ 
+rate
+ 
+limiting
+,
+ 
+data
+ 
+sanitiz ation
+,
+ 
+and
+ 
+CORS
+ 
+configur ations
+.
+  Skills
+ 
+ـ
+ 
+Frontend
+ 
+Developmen t:
+ 
+HTML5,
+ 
+CSS3,
+ 
+JavaScrip t,
+ 
+TypeScrip t,
+ 
+React.js,
+ 
+Next.js
+ 
+ـ
+ 
+UI
+ 
+Frame works
+ 
+&
+ 
+Libraries:
+ 
+Shadcn
+ 
+UI,
+ 
+Material
+ 
+UI,
+ 
+Boots trap,
+ 
+Tailwind,
+ 
+Framer
+ 
+Motion
+ 
+ـ
+ 
+State
+ 
+&
+ 
+Data
+ 
+Manag emen t:
+ 
+TanSt ack
+ 
+Quer y,
+ 
+Zustand,
+ 
+React
+ 
+Hook
+ 
+Form,
+ 
+Zod
+ 
+Valida tion,
+ 
+nuqs
+ 
+(URL
+ 
+state
+ 
+manag emen t)
+ 
+ـ
+ 
+Back end
+ 
+&
+ 
+Databases:
+ 
+Node.js,
+ 
+Expr ess.js,
+ 
+RESTful
+ 
+APIs,
+ 
+Prisma
+ 
+ORM,
+ 
+Drizzle
+ 
+ORM,
+ 
+PostgreSQL
+ 
+(Neon),
+ 
+Mong oDB,
+ 
+AWS
+ 
+S3,
+ 
+WebSock ets
+ 
+(Sock et.IO)
+ 
+ـ
+ 
+Authen tication
+ 
+&
+ 
+Authoriz ation:
+ 
+NextAuth.js,
+ 
+Better
+ 
+Auth,
+ 
+Clerk,
+ 
+JWT,
+ 
+Role-Based
+ 
+&
+ 
+Permission-Based
+ 
+Access
+ 
+Control
+ 
+(RBAC)
+ 
+ـ
+ 
+DevOps
+ 
+&
+ 
+Tools:
+ 
+Git,
+ 
+GitHub,
+ 
+Turbopack,
+ 
+Biome,
+ 
+ESLint,
+ 
+Prettier,
+ 
+Vercel,
+ 
+Hostinger
+ 
+VPS,
+ 
+Contabo
+ 
+ـ
+ 
+UI
+ 
+Enhancemen ts
+ 
+&
+ 
+Visualiz ation:
+ 
+Google
+ 
+Map s
+ 
+API,
+ 
+React
+ 
+Leaflet,
+ 
+OneSignal
+ 
+Notific ations,
+ 
+React
+ 
+Joyride
+ 
+(onboar ding
+ 
+tours)
+  EDUCATION 
+Bachelor
+ 
+of
+ 
+Civil
+ 
+Engineering
+ 
+ 
+(2016
+ 
+-
+ 
+2021)
+ Cumula tive Grade: Very Good (81.7)  
+ 
+
+---TEXT FROM e:\learning\new-portfolio\resume\Ahmed Abdo-FrontEnd-Resume.pdf---
+AHMEDABDOFAHMY
+Frontend Engineer
+Cairo, Egypt|(+20)-1066183226|ahmedmewans2040@gmail.com
+LinkedIn |GitHub |Portfolio
+PROFESSIONALSUMMARY
+Frontend Systems Engineer(since 2022)in architecting high-concurrency web applications usingNext.js 15/16andReact 19.
+Specialist in building scalable internal tools and consumer platforms throughServer Component architecture,Agentic AI RAG
+systems, and strict type-safe development. Proven ability to optimize critical path performance, reducing TTI by up to 40% while
+maintaining robustRBACand modular state management. Focused on engineering resilient, accessible, and globally-scaled user
+experiences that align technical excellence with high-growth business objectives.
+TECHNICALSKILLS
+Core Stack:React 19, Next.js 15/16 (App Router), TypeScript (Strict), JavaScript (ES6+), Server Components (RSC)
+State Management:TanStack Query v5, Zustand (Persistence), Redux Toolkit, nuqs (URL State), React Context
+UI & Specialized:Tailwind CSS v4, shadcn/ui, Leaflet (Maps), Framer Motion, Radix UI, i18next (RTL Support)
+Backend & AI:Node.js, Vercel AI SDK, pgvector, Server Actions, PostgreSQL, Drizzle ORM, WebSockets (Socket.io)
+Tools & Testing:Turbopack, Biome, Zod, React Hook Form, Docker, CI/CD, Jest
+PROFESSIONALEXPERIENCE
+Frontend Engineer Feb 2025 û Present
+SahlSolution Hybrid
+Zad Al-Akhera (EdTech Platform):Engineered a high-performance LMS usingNext.js 15, leveraging RSC to reduce initial
+load times by 40% and significantly optimize hydration.
+Orchestrated ahybrid state strategyusing TanStack Query andnuqs, enabling deep-linked URL states for seamless data
+re-validation across distributed sessions.
+Constructed a modularQuiz Builderwith complex nested state validation usingZod, eliminating 100% of runtime type errors
+in dynamic assessment creation.
+UPL Dashboard:Designed an enterprise-gradeRBACsystem with granular permission guards at Middleware and Component
+levels to secure sensitive logistics data.
+Frontend Engineer (Freelance)Oct 2023 û Feb 2024
+OD Practitioner / Courses-Front Remote
+Course Management System:Engineered a comprehensive course lifecycle platform, managing the end-to-end flow from
+discovery to enrollment for hundreds of users.
+Authored an automated certification engine that generates downloadable PDF credentials upon course completion, utilizing
+server-side logic to ensure 100% data integrity.
+Executed secure payment gateway workflows, implementing server-side webhooks and real-time updates to ensure 100%
+transaction reliability.
+Built high-fidelity multi-step form wizards for booking consultants, improving user conversion rates by 25% through client-side
+state persistence.
+Full Stack Developer (Freelance)May 2024 û Aug 2024
+Zentra Message Remote
+Spearheaded a multi-channel messaging hub with WhatsApp Business API integration, architecting a delivery tracking system
+for high-volume enterprise traffic.
+Resolved complex data synchronization issues by applying a polling strategy withTanStack Query, maintaining UI consistency
+across multiple concurrent sessions.
+KEYTECHNICALPROJECTS
+HIRAJ (Multilingual Marketplace)|Next.js 15, React 19, Zustand, Leaflet, i18n
+Architected a geolocation-aware marketplace usingLeaflet, enabling proximity-based filtering and interactive map selection for
+localized UX.
+Created a real-time messaging system withZustandstate synchronization, achieving a seamless chat experience with optimistic
+UI updates.
+Applied a comprehensivei18n strategywith dual-language (AR/EN) routing and fullRTL renderingwith zero layout shifts.
+RAG Chatbot (AI Knowledge Base)|Next.js 16, Vercel AI SDK, pgvector, Drizzle
+Developed a retrieval-augmented generation (RAG) pipeline indexing documents intopgvectorfor semantic search.
+Enforced agentic tool-calling workflows using theVercel AI SDK, allowing LLMs to autonomously query databases in
+real-time.
+Private Chat (Real-time Messaging)|Next.js 16, Elysia, Upstash Redis
+Architected an ephemeral messaging system withself-destructing roomsvia Redis TTL, ensuring zero data persistence.
+Attained end-to-end type safety between server and client usingEden, significantly reducing integration bugs and streamlining
+API development.
+EDUCATION
+Bachelor of Civil Engineering 2016 û 2021
+Mansoura University Grade: Very Good (81.7%)
+Transitioned to Software Engineering with a focus on Systems Architecture, Algorithms, and UI Design.
+
